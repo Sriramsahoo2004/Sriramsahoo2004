@@ -25,6 +25,6 @@ I'm a web developer focusing on mastering Full Stack Development and expanding m
 
 ### 📫 Connect with Me
 - LinkedIn: [Sriram Sahoo](https://www.linkedin.com/in/sriram-sahoo718718)
-- GitHub: [SriramSahoo](https://github.com/Sriramsahoo2004) _(replace with your GitHub username)_
+- GitHub: [SriramSahoo](https://github.com/Sriramsahoo2004)
 
 Feel free to explore my repositories and reach out if you'd like to collaborate! 😃
