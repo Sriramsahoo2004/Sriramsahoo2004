@@ -11,16 +11,15 @@ I'm a web developer focusing on mastering Full Stack Development and expanding m
 
 ### 🌱 What I'm Learning
 - Exploring **Full Stack Development**
-- **Java DSA** to strengthen problem-solving skills
+- **C++ DSA** to strengthen problem-solving skills
 - **Prompt Engineering** for future AI projects
 
 ### 💡 Current Activities
-- Attending seminars and workshops like the one on **Recent Trends in Computer Science and Technology**.
+- Exploring **React**
 - Practicing and improving **English speaking and writing skills**.
-- **GATE Exam Preparation** to enhance my career opportunities.
 
 ### 🎯 Future Goals
-- Achieve **six-pack abs** 💪 and stay fit despite my busy study schedule.
+- A proficient **Full Stack Development**.
 - Advance my expertise in **prompt engineering** and explore career options as a **prompt engineer**.
 
 ### 📫 Connect with Me
