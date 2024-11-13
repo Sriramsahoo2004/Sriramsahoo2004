@@ -7,7 +7,6 @@ I'm a web developer focusing on mastering Full Stack Development and expanding m
 - **Web Development**: HTML, CSS, JavaScript, Backend (in progress)
 - **AI/ML Enthusiast**: Keen on learning AI tools and prompt engineering
 - **Programming**: DSA in Java, and a solid foundation in C programming
-- **Hackathons**: Participated in Smart India Hackathon with a problem statement on Drug Inventory and Supply Chain Tracking System
 
 ### 🌱 What I'm Learning
 - Exploring **Full Stack Development**
