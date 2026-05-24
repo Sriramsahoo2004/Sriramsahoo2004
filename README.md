@@ -3,7 +3,16 @@
 </h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&lines=B.Tech+CSE+%40+IGIT+Sarang+%7C+Wushu+Brown+Belt+%F0%9F%A5%8B" alt="Typing SVG" /></a>
+  <b>B.Tech CSE Student at IGIT Sarang | Aspiring Software Engineer</b>
+</p>
+
+---
+
+### 🥋 Martial Arts & Discipline
+<p align="center">
+  <img src="https://img.shields.io/badge/Wushu-Brown_Belt-orange?style=for-the-badge&logo=martial-arts&logoColor=white" alt="Wushu Brown Belt" />
+  <br>
+  <i>"I apply the same discipline, precision, and focus learned through my Brown Belt in Wushu to every line of code I write."</i>
 </p>
 
 ---
@@ -38,11 +47,6 @@
 | **[java-mastery](https://github.com/Sriramsahoo2004/java-mastery)** | `Java` | Advanced Java Development |
 
 </div>
-
----
-
-### 🥋 My Philosophy
-> "Coding is like Wushu—it requires discipline, precision, and constant practice to master the form. Whether I'm building AI features for **EduPiece** or grinding DSA patterns, I bring the same focus to every commit."
 
 ---
 
