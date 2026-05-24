@@ -1,28 +1,48 @@
-# Hi there, I'm Sriram Sahoo! 👋
+<h1 align="center">Hi, I'm Sriram Sahoo! 👋</h1>
+<h3 align="center">Computer Science Engineering Student | Full-Stack Developer | Problem Solver</h3>
 
-**I'm a passionate Computer Science student currently pursuing my BTech in CSE at IGIT Sarang.**  
-I'm a web developer focusing on mastering Full Stack Development and expanding my knowledge in AI/ML. I aim to use my skills and experiences to create impactful projects and contribute to open-source communities.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sriramsahoo2004&style=flat-square&color=blue" alt="Visitor Count" />
+</p>
 
-### 🚀 Skills and Interests
-- **Web Development**: HTML, CSS, JavaScript, Backend (in progress)
-- **AI/ML Enthusiast**: Keen on learning AI tools and prompt engineering
-- **Programming**: DSA in Java, and a solid foundation in C programming
+---
 
-### 🌱 What I'm Learning
-- Exploring **Full Stack Development**
-- **C++ DSA** to strengthen problem-solving skills
-- **Prompt Engineering** for future AI projects
+### 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,flutter,react,js,fastapi,git,github,linux,vscode" />
+</p>
 
-### 💡 Current Activities
-- Exploring **React**
-- Practicing and improving **English speaking and writing skills**.
+---
 
-### 🎯 Future Goals
-- A proficient **Full Stack Development**.
-- Advance my expertise in **prompt engineering** and explore career options as a **prompt engineer**.
+### 🏗 Featured Projects
 
-### 📫 Connect with Me
-- LinkedIn: [Sriram Sahoo](https://www.linkedin.com/in/sriram-sahoo718718)
-- GitHub: [SriramSahoo](https://github.com/Sriramsahoo2004)
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[EduFlow](https://github.com/Sriramsahoo2004/EduFlow)** | AI-driven university management app with QR attendance. | Flutter, FastAPI |
+| **[LeadGen Scraper](https://github.com/Sriramsahoo2004/Telegram-Scraper)** | Automated Telegram member lead generation tool. | Python |
+| **[DSA Mastery](https://github.com/Sriramsahoo2004/DSA)** | Curated repository of coding patterns and LeetCode solutions. | C++, Java |
 
-Feel free to explore my repositories and reach out if you'd like to collaborate! 😃
+---
+
+### 📈 My Journey & Stats
+*   **Academic:** 3rd Year B.Tech CSE at IGIT Sarang.
+*   **Competitive Coding:** Dedicated focus on DSA & GATE CS/IT.
+*   **Certifications:** NCC 'A' Certificate | VLSI Training (CTTC Bhubaneswar).
+*   **Discipline:** Brown Belt in Wushu 🥋.
+*   **Goal:** Mastering Full-Stack Development and Prompt Engineering.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sriramsahoo2004&show_icons=true&theme=radical&hide_border=true" alt="Sriram's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sriramsahoo2004&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/sriram-sahoo718718" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center"><i>"Building the future, one line of code at a time."</i></p>
