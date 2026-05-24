@@ -20,8 +20,8 @@
 ### ⚡ Quick Stats
 <p align="center">
   <a href="https://github.com/Sriramsahoo2004">
-    <img src="https://github-readme-stats.vercel.app/api?username=Sriramsahoo2004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sriramsahoo2004&layout=compact&theme=tokyonight&langs_count=6" alt="Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=sriramsahoo2004&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriramsahoo2004&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Languages" />
   </a>
 </p>
 
