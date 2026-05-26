@@ -17,16 +17,6 @@
 
 ---
 
-### ⚡ Quick Stats
-<p align="center">
-  <a href="https://github.com/Sriramsahoo2004">
-    <img src="https://github-readme-stats.vercel.app/api?username=sriramsahoo2004&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriramsahoo2004&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Languages" />
-  </a>
-</p>
-
----
-
 ### 🛠 Tech Arsenal
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,python,flutter,react,fastapi,git,linux,vscode,postgresql" /><br>
