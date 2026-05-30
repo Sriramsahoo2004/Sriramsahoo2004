@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&height=70&lines=Hi%2C+I'm+Sriram+Sahoo!%3BFull-Stack+Developer%3BProblem+Solver%3BObsessed+with+creating+what+doesn't+exist+yet" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&height=70&lines=Hi%2C+I'm+Sriram+Sahoo!%3BFull-Stack+Developer%3BProblem+Solver%3BI+Build+The+Nothing" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -30,10 +30,11 @@
 
 | Repository | Tech Stack | Key Focus |
 | :--- | :--- | :--- |
+| **[dopamin_lock_launcher](https://github.com/Sriramsahoo2004/dopamin_lock_launcher)** | `Flutter` `FastAPI` `PostgreSQL` |  A Launcher to Stop Phone Addiction|
 | **[EduPiece](https://github.com/Sriramsahoo2004/EduPiece)** | `Flutter` `FastAPI` `PostgreSQL` | AI-Driven University Management |
 | **[TCS-NQT-Advanced-Coding](https://github.com/Sriramsahoo2004/TCS-NQT-Advanced-Coding)** | `C++` `Java` | Competitive Programming |
 | **[Gate-Preparation-Tracker](https://github.com/Sriramsahoo2004/Gate-Preparation-Tracker)** | `Python` | GATE Exam Analytics |
-| **[CPP_DSA](https://github.com/Sriramsahoo2004/CPP_DSA)** | `C++` | Data Structures & Algorithms |
+| **[TeleKit](https://github.com/Sriramsahoo2004/TeleKit)** | `Python` | A Telegram E-Commerce Kit |
 | **[java-mastery](https://github.com/Sriramsahoo2004/java-mastery)** | `Java` | Advanced Java Development |
 
 </div>
