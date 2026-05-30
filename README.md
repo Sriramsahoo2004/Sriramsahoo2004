@@ -30,7 +30,7 @@
 
 | Repository | Tech Stack | Key Focus |
 | :--- | :--- | :--- |
-| **[Dopamin-Lock-Launcher](https://github.com/Sriramsahoo2004/dopamin_lock_launcher)** | `Flutter` `FastAPI` `PostgreSQL` |  A Launcher to Stop Phone Addiction|
+| **[Dopamine-Lock-Launcher](https://github.com/Sriramsahoo2004/dopamin_lock_launcher)** | `Flutter` `FastAPI` `PostgreSQL` |  A Launcher to Stop Phone Addiction|
 | **[EduPiece](https://github.com/Sriramsahoo2004/EduPiece)** | `Flutter` `FastAPI` `PostgreSQL` | AI-Driven University Management |
 | **[TCS-NQT-Advanced-Coding](https://github.com/Sriramsahoo2004/TCS-NQT-Advanced-Coding)** | `C++` `Java` | Competitive Programming |
 | **[Gate-Preparation-Tracker](https://github.com/Sriramsahoo2004/Gate-Preparation-Tracker)** | `Python` | GATE Exam Analytics |
